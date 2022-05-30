@@ -1,9 +1,9 @@
 {
-	"Любимый фильм": "Forrest Gump",
-	"любимый сериал": "Breaking Bad",
-	"любимая еда": "pizza",
-	"любимое время года": "summer",
-	"страна которую хотели бы посетить": "China"
+	"FavoriteFilm": "Forrest Gump",
+	"FavoritSeries": "Breaking Bad",
+	"FavoriteFood": "pizza",
+	"FavoriteTimeOfYear": "summer",
+	"CountryToVisite": "China"
 }
 
 
